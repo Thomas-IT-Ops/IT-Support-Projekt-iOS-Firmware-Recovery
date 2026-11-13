@@ -1,4 +1,4 @@
-# ⚡ Dokumentation: Durchführung & Firmware-Wiederherstellung (iPhone 11 Pro)
+#  Dokumentation: Durchführung & Firmware-Wiederherstellung (iPhone 11 Pro)
 
 **Dokumententyp:** Prozess- & Ausführungsdokumentation
 
@@ -10,13 +10,13 @@
 
 ---
 
-## 🎯 1. Zielsetzung & Rahmenbedingungen
+##  1. Zielsetzung & Rahmenbedingungen
 
 Dieses Dokument protokolliert die operative Ausführung des Firmware-Flashes (Factory Restore / Werkseinstellungen) für das iPhone 11 Pro unter Windows 11 sowie die unmittelbare Nachbearbeitung nach Behebung der Treiber-Blockaden aus der Planungsphase.
 
 ---
 
-## 🛑 2. Beobachtete Zwischenfälle & Live-Fehlerbehebung
+##  2. Beobachtete Zwischenfälle & Live-Fehlerbehebung
 
 Während des Initialisierungs- und Setup-Prozesses traten folgende spezifische Reaktionen auf, die wie folgt behandelt wurden:
 
@@ -34,7 +34,7 @@ Während des Initialisierungs- und Setup-Prozesses traten folgende spezifische R
 
 ---
 
-## 🔄 3. Detaillierter Ablauf der Firmware-Wiederherstellung
+##  3. Detaillierter Ablauf der Firmware-Wiederherstellung
 
 ```
 [Recovery Mode] ──> [Erkennung in Apple-Geräte-App] ──> [Firmware-Download / Validierung]
@@ -58,7 +58,7 @@ Während des Initialisierungs- und Setup-Prozesses traten folgende spezifische R
 
 ---
 
-## ✅ 4. Ergebnis & Abnahme
+##  4. Ergebnis & Abnahme
 
 * **Firmware-Status:** Erfolgreich auf Werkseinstellungen zurückgesetzt und neu initialisiert.
 * **Hardware-Status:** Einwandfreie Funktion von Touch, Display, USB-C/Lightning-Interface und Akku-Ladeelektronik.
