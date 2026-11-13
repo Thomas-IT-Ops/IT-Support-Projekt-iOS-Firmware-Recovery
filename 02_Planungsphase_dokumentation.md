@@ -1,4 +1,4 @@
-# 📋 Dokumentation: Planungs- & Analysedokumentation zur iPhone 11 Pro Wiederherstellung
+#  Dokumentation: Planungs- & Analysedokumentation zur iPhone 11 Pro Wiederherstellung
 
 **Dokumententyp:** System- & Prozessdokumentation  
 **Ziel-Hardware:** iPhone 11 Pro  
@@ -7,7 +7,7 @@
 
 ---
 
-## 📑 1. Einleitung & Zielsetzung
+##  1. Einleitung & Zielsetzung
 
 Dieses Dokument beschreibt die strukturiere Planungs- und Vorbereitungsphase für die Wiederherstellung (Factory Restore) eines iPhone 11 Pro auf die Werkseinstellungen unter Windows 11. 
 
@@ -15,7 +15,7 @@ Ziel der Planungsphase war es, potenzielle Fehlerquellen auf Betriebssystem- und
 
 ---
 
-## 🔬 2. Systemanalyse & Systemanforderungen
+##  2. Systemanalyse & Systemanforderungen
 
 ### 2.1 Hardware-Konfiguration
 * **Smartphone:** iPhone 11 Pro (Lightning-Schnittstelle)
@@ -34,7 +34,7 @@ Vor Beginn der Firmware-Wiederherstellung wurden folgende kritische Schwachstell
 
 ---
 
-## 🛠️ 3. Technische Vorbereitung & Treiber-Hardening
+##  3. Technische Vorbereitung & Treiber-Hardening
 
 Vor Initiierung des Recovery-Modus wurden am Host-System folgende Präventivmaßnahmen durchgeführt:
 
@@ -56,7 +56,7 @@ Vor Initiierung des Recovery-Modus wurden am Host-System folgende Präventivmaß
 
 ---
 
-## 📱 4. Hardware-Spezifikation & Modus-Vorbereitung
+##  4. Hardware-Spezifikation & Modus-Vorbereitung
 
 ### 4.1 Kabel-Spezifikation
 * **Pflicht-Komponente:** Original USB-C auf Lightning-Kabel (Data-Sync-fähig).
